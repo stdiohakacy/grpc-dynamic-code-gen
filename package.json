@@ -1,0 +1,20 @@
+{
+  "name": "grpc-dynamic-code-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stdiohakacy/grpc-dynamic-code-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stdiohakacy/grpc-dynamic-code-gen/issues"
+  },
+  "homepage": "https://github.com/stdiohakacy/grpc-dynamic-code-gen#readme"
+}
