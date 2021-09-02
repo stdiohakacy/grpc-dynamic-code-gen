@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/stdiohakacy/grpc-dynamic-code-gen/issues"
   },
-  "homepage": "https://github.com/stdiohakacy/grpc-dynamic-code-gen#readme"
+  "homepage": "https://github.com/stdiohakacy/grpc-dynamic-code-gen#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.4",
+    "grpc": "^1.24.11",
+    "proto-loader": "^0.2.0"
+  }
 }
